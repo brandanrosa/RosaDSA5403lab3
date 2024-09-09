@@ -35,6 +35,7 @@ myBetaCon <- function(a, b, n, x) {
        col = "hotpink",
        ylab = "Posterior",
        xlab = "Theta",
+       main = "Beta Posterior Distribution",
        lwd = 2.5
   )
 

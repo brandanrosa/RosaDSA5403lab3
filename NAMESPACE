@@ -2,3 +2,5 @@
 
 export(myBetaCon)
 export(myGamCon)
+export(shinybeta)
+importFrom(shiny,runApp)
